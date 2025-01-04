@@ -27,4 +27,7 @@ Follow these steps to set up and run the application locally.
    ```bash
    git clone https://github.com/your-username/todo-app.git
    cd todo-app
+
+
+```markdown
    ![Todo App Screenshot](./screenshot.png)
