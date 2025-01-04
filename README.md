@@ -12,6 +12,13 @@ A simple and interactive Todo application built using React.js. This project dem
 
 ---
 
+## Live Demo
+
+Check out the live version of the application here:  
+👉 [Todo Application Live Demo](https://cozy-froyo-25d34d.netlify.app/)
+
+---
+
 ## Getting Started
 
 Follow these steps to set up and run the application locally.
